@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "quarto_githubpages"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Projekt
+      - about.qmd
+    
+    right:
+      - icon: github
+        href: https://github.com/wiesehahn/
+
+
+  page-footer:
+    border: false
+    left: "Copyright 2023, Jens Wiesehahn"
+    right:
+      - icon: github
+        href: https://github.com/wiesehahn
+      - icon: twitter
+        href: https://twitter.com/JensWiesehahn
+      - icon: mastodon
+        href: https://fosstodon.org/@JensWiesehahn
+
+  open-graph: true
+  site-url: 'https://github.com/wiesehahn/quarto_githubpages'
+  site-path: '/'
+  twitter-card:
+    creator: '@JensWiesehahn'
+
+format:
+  html:
+    theme: litera
+    css: style.css
+    smooth-scroll: true
+    highlight: kate
+    toc: true
+
+editor: visual

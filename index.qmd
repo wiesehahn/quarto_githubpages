@@ -1,0 +1,10 @@
+---
+title: "quarto_githubpages"
+---
+
+This is a Quarto website.
+It is created automatically via github workflow. 
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+The workflow is from https://tarleb.com/posts/quarto-with-gh-pages/.
