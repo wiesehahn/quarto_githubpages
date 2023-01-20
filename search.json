@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_githubpages",
+    "section": "",
+    "text": "This is a Quarto website. It is created automatically via github workflow.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThe workflow is from https://tarleb.com/posts/quarto-with-gh-pages/."
+  }
+]
